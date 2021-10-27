@@ -1,3 +1,229 @@
+## @antv/x6-app-dag [1.1.6](https://github.com/antvis/x6/compare/@antv/x6-app-dag@1.1.5...@antv/x6-app-dag@1.1.6) (2021-10-22)
+
+
+### Bug Fixes
+
+* 🐛 fix delete node connection not delete ([#1167](https://github.com/antvis/x6/issues/1167)) ([2b0ab54](https://github.com/antvis/x6/commit/2b0ab54892527e5ba32b50adb5f21523ab2459ab))
+* 🐛 update x6-react-shape version ([#1425](https://github.com/antvis/x6/issues/1425)) ([65e6923](https://github.com/antvis/x6/commit/65e6923b99d48641542203b549d5703a6a1f4be3))
+
+
+
+
+
+### Dependencies
+
+* **@antv/x6-react-shape:** upgraded to 1.5.2
+
+## @antv/x6-app-dag [1.1.6](https://github.com/antvis/x6/compare/@antv/x6-app-dag@1.1.5...@antv/x6-app-dag@1.1.6) (2021-10-19)
+
+
+### Bug Fixes
+
+* 🐛 fix delete node connection not delete ([#1167](https://github.com/antvis/x6/issues/1167)) ([2b0ab54](https://github.com/antvis/x6/commit/2b0ab54892527e5ba32b50adb5f21523ab2459ab))
+* 🐛 update x6-react-shape version ([#1425](https://github.com/antvis/x6/issues/1425)) ([65e6923](https://github.com/antvis/x6/commit/65e6923b99d48641542203b549d5703a6a1f4be3))
+
+## @antv/x6-app-dag [1.1.6](https://github.com/antvis/x6/compare/@antv/x6-app-dag@1.1.5...@antv/x6-app-dag@1.1.6) (2021-10-12)
+
+
+### Bug Fixes
+
+* 🐛 fix delete node connection not delete ([#1167](https://github.com/antvis/x6/issues/1167)) ([2b0ab54](https://github.com/antvis/x6/commit/2b0ab54892527e5ba32b50adb5f21523ab2459ab))
+* 🐛 update x6-react-shape version ([#1425](https://github.com/antvis/x6/issues/1425)) ([65e6923](https://github.com/antvis/x6/commit/65e6923b99d48641542203b549d5703a6a1f4be3))
+
+## @antv/x6-app-dag [1.1.6](https://github.com/antvis/x6/compare/@antv/x6-app-dag@1.1.5...@antv/x6-app-dag@1.1.6) (2021-10-12)
+
+
+### Bug Fixes
+
+* 🐛 fix delete node connection not delete ([#1167](https://github.com/antvis/x6/issues/1167)) ([2b0ab54](https://github.com/antvis/x6/commit/2b0ab54892527e5ba32b50adb5f21523ab2459ab))
+* 🐛 update x6-react-shape version ([#1425](https://github.com/antvis/x6/issues/1425)) ([65e6923](https://github.com/antvis/x6/commit/65e6923b99d48641542203b549d5703a6a1f4be3))
+
+
+
+
+
+### Dependencies
+
+* **@antv/x6-react-shape:** upgraded to 1.5.1
+
+## @antv/x6-app-dag [1.1.6](https://github.com/antvis/x6/compare/@antv/x6-app-dag@1.1.5...@antv/x6-app-dag@1.1.6) (2021-10-08)
+
+
+### Bug Fixes
+
+* 🐛 fix delete node connection not delete ([#1167](https://github.com/antvis/x6/issues/1167)) ([2b0ab54](https://github.com/antvis/x6/commit/2b0ab54892527e5ba32b50adb5f21523ab2459ab))
+
+
+
+
+
+### Dependencies
+
+* **@antv/x6:** upgraded to 1.28.1
+
+## @antv/x6-app-dag [1.1.6](https://github.com/antvis/x6/compare/@antv/x6-app-dag@1.1.5...@antv/x6-app-dag@1.1.6) (2021-10-02)
+
+
+### Bug Fixes
+
+* 🐛 fix delete node connection not delete ([#1167](https://github.com/antvis/x6/issues/1167)) ([2b0ab54](https://github.com/antvis/x6/commit/2b0ab54892527e5ba32b50adb5f21523ab2459ab))
+
+
+
+
+
+### Dependencies
+
+* **@antv/x6:** upgraded to 1.28.0
+
+## @antv/x6-app-dag [1.1.6](https://github.com/antvis/x6/compare/@antv/x6-app-dag@1.1.5...@antv/x6-app-dag@1.1.6) (2021-10-02)
+
+
+### Bug Fixes
+
+* 🐛 fix delete node connection not delete ([#1167](https://github.com/antvis/x6/issues/1167)) ([2b0ab54](https://github.com/antvis/x6/commit/2b0ab54892527e5ba32b50adb5f21523ab2459ab))
+
+## @antv/x6-app-dag [1.1.6](https://github.com/antvis/x6/compare/@antv/x6-app-dag@1.1.5...@antv/x6-app-dag@1.1.6) (2021-10-01)
+
+
+### Bug Fixes
+
+* 🐛 fix delete node connection not delete ([#1167](https://github.com/antvis/x6/issues/1167)) ([2b0ab54](https://github.com/antvis/x6/commit/2b0ab54892527e5ba32b50adb5f21523ab2459ab))
+
+
+
+
+
+### Dependencies
+
+* **@antv/x6:** upgraded to 1.27.2
+
+## @antv/x6-app-dag [1.1.6](https://github.com/antvis/x6/compare/@antv/x6-app-dag@1.1.5...@antv/x6-app-dag@1.1.6) (2021-10-01)
+
+
+### Bug Fixes
+
+* 🐛 fix delete node connection not delete ([#1167](https://github.com/antvis/x6/issues/1167)) ([2b0ab54](https://github.com/antvis/x6/commit/2b0ab54892527e5ba32b50adb5f21523ab2459ab))
+
+## @antv/x6-app-dag [1.1.6](https://github.com/antvis/x6/compare/@antv/x6-app-dag@1.1.5...@antv/x6-app-dag@1.1.6) (2021-10-01)
+
+
+### Bug Fixes
+
+* 🐛 fix delete node connection not delete ([#1167](https://github.com/antvis/x6/issues/1167)) ([2b0ab54](https://github.com/antvis/x6/commit/2b0ab54892527e5ba32b50adb5f21523ab2459ab))
+
+## @antv/x6-app-dag [1.1.6](https://github.com/antvis/x6/compare/@antv/x6-app-dag@1.1.5...@antv/x6-app-dag@1.1.6) (2021-10-01)
+
+
+### Bug Fixes
+
+* 🐛 fix delete node connection not delete ([#1167](https://github.com/antvis/x6/issues/1167)) ([2b0ab54](https://github.com/antvis/x6/commit/2b0ab54892527e5ba32b50adb5f21523ab2459ab))
+
+
+
+
+
+### Dependencies
+
+* **@antv/x6:** upgraded to 1.27.1
+
+## @antv/x6-app-dag [1.1.6](https://github.com/antvis/x6/compare/@antv/x6-app-dag@1.1.5...@antv/x6-app-dag@1.1.6) (2021-09-30)
+
+
+### Bug Fixes
+
+* 🐛 fix delete node connection not delete ([#1167](https://github.com/antvis/x6/issues/1167)) ([2b0ab54](https://github.com/antvis/x6/commit/2b0ab54892527e5ba32b50adb5f21523ab2459ab))
+
+
+
+
+
+### Dependencies
+
+* **@antv/x6:** upgraded to 1.27.0
+
+## @antv/x6-app-dag [1.1.7](https://github.com/antvis/x6/compare/@antv/x6-app-dag@1.1.6...@antv/x6-app-dag@1.1.7) (2021-09-22)
+
+## @antv/x6-app-dag [1.1.6](https://github.com/antvis/x6/compare/@antv/x6-app-dag@1.1.5...@antv/x6-app-dag@1.1.6) (2021-09-22)
+
+
+### Bug Fixes
+
+* 🐛 fix delete node connection not delete ([#1167](https://github.com/antvis/x6/issues/1167)) ([2b0ab54](https://github.com/antvis/x6/commit/2b0ab54892527e5ba32b50adb5f21523ab2459ab))
+
+
+
+
+
+### Dependencies
+
+* **@antv/x6:** upgraded to 1.26.3
+* **@antv/x6-react-shape:** upgraded to 1.5.0
+
+## @antv/x6-app-dag [1.1.6](https://github.com/antvis/x6/compare/@antv/x6-app-dag@1.1.5...@antv/x6-app-dag@1.1.6) (2021-09-13)
+
+
+### Bug Fixes
+
+* 🐛 fix delete node connection not delete ([#1167](https://github.com/antvis/x6/issues/1167)) ([2b0ab54](https://github.com/antvis/x6/commit/2b0ab54892527e5ba32b50adb5f21523ab2459ab))
+
+
+
+
+
+### Dependencies
+
+* **@antv/x6:** upgraded to 1.26.2
+* **@antv/x6-react-components:** upgraded to 1.1.14
+* **@antv/x6-react-shape:** upgraded to 1.4.6
+
+## @antv/x6-app-dag [1.1.6](https://github.com/antvis/x6/compare/@antv/x6-app-dag@1.1.5...@antv/x6-app-dag@1.1.6) (2021-08-31)
+
+
+### Bug Fixes
+
+* 🐛 fix delete node connection not delete ([#1167](https://github.com/antvis/x6/issues/1167)) ([2b0ab54](https://github.com/antvis/x6/commit/2b0ab54892527e5ba32b50adb5f21523ab2459ab))
+
+
+
+
+
+### Dependencies
+
+* **@antv/x6:** upgraded to 1.26.1
+
+## @antv/x6-app-dag [1.1.6](https://github.com/antvis/x6/compare/@antv/x6-app-dag@1.1.5...@antv/x6-app-dag@1.1.6) (2021-08-24)
+
+
+### Bug Fixes
+
+* 🐛 fix delete node connection not delete ([#1167](https://github.com/antvis/x6/issues/1167)) ([2b0ab54](https://github.com/antvis/x6/commit/2b0ab54892527e5ba32b50adb5f21523ab2459ab))
+
+
+
+
+
+### Dependencies
+
+* **@antv/x6:** upgraded to 1.26.0
+
+## @antv/x6-app-dag [1.1.6](https://github.com/antvis/x6/compare/@antv/x6-app-dag@1.1.5...@antv/x6-app-dag@1.1.6) (2021-08-18)
+
+
+### Bug Fixes
+
+* 🐛 fix delete node connection not delete ([#1167](https://github.com/antvis/x6/issues/1167)) ([2b0ab54](https://github.com/antvis/x6/commit/2b0ab54892527e5ba32b50adb5f21523ab2459ab))
+
+## @antv/x6-app-dag [1.1.7](https://github.com/antvis/x6/compare/@antv/x6-app-dag@1.1.6...@antv/x6-app-dag@1.1.7) (2021-08-18)
+
+
+
+
+
+### Dependencies
+
+* **@antv/x6:** upgraded to 1.25.5
+
 ## @antv/x6-app-dag [1.1.6](https://github.com/antvis/x6/compare/@antv/x6-app-dag@1.1.5...@antv/x6-app-dag@1.1.6) (2021-08-17)
 
 

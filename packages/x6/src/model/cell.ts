@@ -688,23 +688,23 @@ export class Cell<
 
   // #region data
 
-  get data() {
+  get data(): Properties['data'] {
     return this.getData()
   }
 
-  set data(val: any) {
+  set data(val: Properties['data']) {
     this.setData(val)
   }
 
-  getData<T>() {
+  getData<T = Properties['data']>(): T {
     return this.store.get<T>('data')
   }
 
-  setData(data: any, options: Cell.SetDataOptions = {}) {
+  setData<T = Properties['data']>(data: T, options: Cell.SetDataOptions = {}) {
     if (data == null) {
       this.removeData(options)
     } else {
-      const set = (data: any) => this.store.set('data', data, options)
+      const set = (data: T) => this.store.set('data', data, options)
 
       if (options.overwrite === true) {
         set(data)
@@ -721,11 +721,11 @@ export class Cell<
     return this
   }
 
-  replaceData(data: any, options: Cell.SetOptions = {}) {
+  replaceData<T = Properties['data']>(data: T, options: Cell.SetOptions = {}) {
     return this.setData(data, { ...options, overwrite: true })
   }
 
-  updateData(data: any, options: Cell.SetOptions = {}) {
+  updateData<T = Properties['data']>(data: T, options: Cell.SetOptions = {}) {
     return this.setData(data, { ...options, deep: false })
   }
 
@@ -750,26 +750,30 @@ export class Cell<
     return this.store.get('parent')
   }
 
-  getParent<T extends Cell = Cell>(): T | null {
-    const parentId = this.getParentId()
-    if (parentId && this.model) {
-      const parent = this.model.getCell<T>(parentId)
-      this._parent = parent
-      return parent
+  getParent() {
+    let parent = this._parent
+    if (parent == null && this.store) {
+      const parentId = this.getParentId()
+      if (parentId != null && this.model) {
+        parent = this.model.getCell(parentId)
+        this._parent = parent
+      }
     }
-    return null
+    return parent
   }
 
   getChildren() {
-    const childrenIds = this.store.get('children')
-    if (childrenIds && childrenIds.length && this.model) {
-      const children = childrenIds
-        .map((id) => this.model?.getCell(id))
-        .filter((cell) => cell != null) as Cell[]
-      this._children = children
-      return [...children]
+    let children = this._children
+    if (children == null) {
+      const childrenIds = this.store.get('children')
+      if (childrenIds && childrenIds.length && this.model) {
+        children = childrenIds
+          .map((id) => this.model?.getCell(id))
+          .filter((cell) => cell != null) as Cell[]
+        this._children = children
+      }
     }
-    return null
+    return children ? [...children] : null
   }
 
   hasParent() {

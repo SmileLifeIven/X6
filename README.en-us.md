@@ -1,3 +1,5 @@
+[简体中文](/README.md) | English
+
 <p align="center"><img src="/flow.svg"></p>
 
 <p align="center"><strong>JavaScript diagramming library that uses SVG and HTML for rendering.</strong></p>
@@ -20,7 +22,6 @@
 <a href="https://david-dm.org/antvis/x6?type=dev&path=packages/x6"><img alt="devDependencies Status" src="https://david-dm.org/antvis/x6/dev-status.svg?style=flat-square&path=packages/x6" ></a>
 </p>
 
-[简体中文](/README.md) | English
 
 ## Features
 
@@ -167,7 +168,7 @@ Welcome to join the **X6 Communication Group** (Scan the QR Code to Join us). We
 
 ## Development
 
-This repo is base on [lerna](https://github.com/lerna/lerna) with the following structor:
+This repo is based on [lerna](https://github.com/lerna/lerna) with the following structure:
 
 ```
 .

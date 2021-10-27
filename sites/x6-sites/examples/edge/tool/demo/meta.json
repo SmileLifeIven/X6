@@ -51,18 +51,18 @@
     {
       "filename": "context-menu.tsx",
       "title": {
-        "zh": "使用 AntD 的 Menu 组件",
-        "en": "Use AntD Menu with Edge"
+        "zh": "右键菜单",
+        "en": "ContextMenu"
       },
       "screenshot": "https://gw.alipayobjects.com/mdn/rms_43231b/afts/img/A*8zs6SasZQ0MAAAAAAAAAAAAAARQnAQ"
     },
     {
       "filename": "tooltip.tsx",
       "title": {
-        "zh": "使用 AntD 的 Tooltip 组件",
-        "en": "Use AntD Tooltip with Edge"
+        "zh": "Tooltip",
+        "en": "Tooltip"
       },
-      "screenshot": "https://gw.alipayobjects.com/mdn/rms_43231b/afts/img/A*-W2ORbBVQgMAAAAAAAAAAAAAARQnAQ"
+      "screenshot": "https://gw.alipayobjects.com/mdn/rms_43231b/afts/img/A*fXO2RZ5IWv4AAAAAAAAAAAAAARQnAQ"
     }
   ]
 }

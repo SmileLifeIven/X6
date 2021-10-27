@@ -1,3 +1,86 @@
+## @antv/x6 [1.28.1](https://github.com/antvis/x6/compare/@antv/x6@1.28.0...@antv/x6@1.28.1) (2021-10-08)
+
+
+### Bug Fixes
+
+* 🐛 fiter nodes when rubberband ([#1408](https://github.com/antvis/x6/issues/1408)) ([35ad628](https://github.com/antvis/x6/commit/35ad628a1b51630aedbed038eb0ff05c6575ca09))
+
+# @antv/x6 [1.28.0](https://github.com/antvis/x6/compare/@antv/x6@1.27.2...@antv/x6@1.28.0) (2021-10-02)
+
+
+### Bug Fixes
+
+* 🐛 modify the font size even if the text does not change ([#1397](https://github.com/antvis/x6/issues/1397)) ([f93c290](https://github.com/antvis/x6/commit/f93c290abd8e546e76feb914c4f0457aa6f1bbbf))
+* 🐛 stop propagation when enable following ([#1398](https://github.com/antvis/x6/issues/1398)) ([59cbe44](https://github.com/antvis/x6/commit/59cbe44cf308e7b452ac0fba37dd19c86324e475))
+
+
+### Features
+
+* ✨ add batch for selection ([#1399](https://github.com/antvis/x6/issues/1399)) ([276abac](https://github.com/antvis/x6/commit/276abac2949bd6c2160e749e0d4e41d9201ae08e))
+* ✨ add excludeHiddenNodes for manhattan router ([#1400](https://github.com/antvis/x6/issues/1400)) ([c57908f](https://github.com/antvis/x6/commit/c57908fc7e6183319f27a8acc0e3567e76d11e6e))
+
+## @antv/x6 [1.27.2](https://github.com/antvis/x6/compare/@antv/x6@1.27.1...@antv/x6@1.27.2) (2021-10-01)
+
+
+### Bug Fixes
+
+* 🐛 can not select flat edge ([#1394](https://github.com/antvis/x6/issues/1394)) ([89ae2cc](https://github.com/antvis/x6/commit/89ae2ccdc02ae2dfb8d4f9a1b10dd81a77a59b10))
+
+
+### Performance Improvements
+
+* ⚡️ improve box selection performance ([#1393](https://github.com/antvis/x6/issues/1393)) ([175aa58](https://github.com/antvis/x6/commit/175aa587202fa687555815a448c9bf80926b166e))
+
+## @antv/x6 [1.27.1](https://github.com/antvis/x6/compare/@antv/x6@1.27.0...@antv/x6@1.27.1) (2021-10-01)
+
+
+### Bug Fixes
+
+* 🐛 draw background multiple times to show the last image ([#1389](https://github.com/antvis/x6/issues/1389)) ([e44098d](https://github.com/antvis/x6/commit/e44098d04b886d9b54b752bee2dcaa57db6b5a3f))
+
+# @antv/x6 [1.27.0](https://github.com/antvis/x6/compare/@antv/x6@1.26.3...@antv/x6@1.27.0) (2021-09-30)
+
+
+### Bug Fixes
+
+* 🐛 normalize event before get clientX ([#1387](https://github.com/antvis/x6/issues/1387)) ([ba4aedc](https://github.com/antvis/x6/commit/ba4aedc49793fa681cd73a4790ab4dc34e3cf936))
+
+
+### Features
+
+* ✨ add resizeGroup for stencil ([#1388](https://github.com/antvis/x6/issues/1388)) ([4baba33](https://github.com/antvis/x6/commit/4baba3326bc9ecbbd9c272fcfa4ee3d3c0389db3))
+
+## @antv/x6 [1.26.3](https://github.com/antvis/x6/compare/@antv/x6@1.26.2...@antv/x6@1.26.3) (2021-09-22)
+
+
+### Bug Fixes
+
+* 🐛 fix option merge order in paste ([#1350](https://github.com/antvis/x6/issues/1350)) ([016303c](https://github.com/antvis/x6/commit/016303c936ccbc23e7bbb80c8461e4ba9fe8d14f))
+* segments & vertices tool add onChanged callback ([#1348](https://github.com/antvis/x6/issues/1348)) ([502856c](https://github.com/antvis/x6/commit/502856c3b89a4613859c7152ec212253ec7919d8))
+
+## @antv/x6 [1.26.2](https://github.com/antvis/x6/compare/@antv/x6@1.26.1...@antv/x6@1.26.2) (2021-09-13)
+
+## @antv/x6 [1.26.1](https://github.com/antvis/x6/compare/@antv/x6@1.26.0...@antv/x6@1.26.1) (2021-08-31)
+
+
+### Bug Fixes
+
+* 🐛 not stopPropagation when mousedown ([#1305](https://github.com/antvis/x6/issues/1305)) ([6a3f96d](https://github.com/antvis/x6/commit/6a3f96d3b5754def401084e023dad466c013cc49))
+
+# @antv/x6 [1.26.0](https://github.com/antvis/x6/compare/@antv/x6@1.25.5...@antv/x6@1.26.0) (2021-08-24)
+
+
+### Features
+
+* 🎸 为定义业务数据的 data 属性提供类型定义 ([#1278](https://github.com/antvis/x6/issues/1278)) ([412d035](https://github.com/antvis/x6/commit/412d035687c6caf235f2afb1fa23d830d2a5f002))
+
+## @antv/x6 [1.25.5](https://github.com/antvis/x6/compare/@antv/x6@1.25.4...@antv/x6@1.25.5) (2021-08-18)
+
+
+### Bug Fixes
+
+* 🐛 optimize get child method ([#1262](https://github.com/antvis/x6/issues/1262)) ([c7212bb](https://github.com/antvis/x6/commit/c7212bb1ec059f2d2379f0b6c8ffe0e6edd52aad))
+
 ## @antv/x6 [1.25.4](https://github.com/antvis/x6/compare/@antv/x6@1.25.3...@antv/x6@1.25.4) (2021-08-17)
 
 

@@ -1,3 +1,98 @@
+## @antv/x6-sites-demos-helper [1.2.2](https://github.com/antvis/x6/compare/@antv/x6-sites-demos-helper@1.2.1...@antv/x6-sites-demos-helper@1.2.2) (2021-10-22)
+
+
+### Bug Fixes
+
+* 🐛 change home path in speedup js ([#1369](https://github.com/antvis/x6/issues/1369)) ([a234833](https://github.com/antvis/x6/commit/a234833240bad1f7d51f0fadf8b9db9392c44064))
+
+## @antv/x6-sites-demos-helper [1.2.2](https://github.com/antvis/x6/compare/@antv/x6-sites-demos-helper@1.2.1...@antv/x6-sites-demos-helper@1.2.2) (2021-10-19)
+
+
+### Bug Fixes
+
+* 🐛 change home path in speedup js ([#1369](https://github.com/antvis/x6/issues/1369)) ([a234833](https://github.com/antvis/x6/commit/a234833240bad1f7d51f0fadf8b9db9392c44064))
+
+## @antv/x6-sites-demos-helper [1.2.2](https://github.com/antvis/x6/compare/@antv/x6-sites-demos-helper@1.2.1...@antv/x6-sites-demos-helper@1.2.2) (2021-10-12)
+
+
+### Bug Fixes
+
+* 🐛 change home path in speedup js ([#1369](https://github.com/antvis/x6/issues/1369)) ([a234833](https://github.com/antvis/x6/commit/a234833240bad1f7d51f0fadf8b9db9392c44064))
+
+## @antv/x6-sites-demos-helper [1.2.2](https://github.com/antvis/x6/compare/@antv/x6-sites-demos-helper@1.2.1...@antv/x6-sites-demos-helper@1.2.2) (2021-10-12)
+
+
+### Bug Fixes
+
+* 🐛 change home path in speedup js ([#1369](https://github.com/antvis/x6/issues/1369)) ([a234833](https://github.com/antvis/x6/commit/a234833240bad1f7d51f0fadf8b9db9392c44064))
+
+## @antv/x6-sites-demos-helper [1.2.2](https://github.com/antvis/x6/compare/@antv/x6-sites-demos-helper@1.2.1...@antv/x6-sites-demos-helper@1.2.2) (2021-10-08)
+
+
+### Bug Fixes
+
+* 🐛 change home path in speedup js ([#1369](https://github.com/antvis/x6/issues/1369)) ([a234833](https://github.com/antvis/x6/commit/a234833240bad1f7d51f0fadf8b9db9392c44064))
+
+## @antv/x6-sites-demos-helper [1.2.2](https://github.com/antvis/x6/compare/@antv/x6-sites-demos-helper@1.2.1...@antv/x6-sites-demos-helper@1.2.2) (2021-10-02)
+
+
+### Bug Fixes
+
+* 🐛 change home path in speedup js ([#1369](https://github.com/antvis/x6/issues/1369)) ([a234833](https://github.com/antvis/x6/commit/a234833240bad1f7d51f0fadf8b9db9392c44064))
+
+## @antv/x6-sites-demos-helper [1.2.2](https://github.com/antvis/x6/compare/@antv/x6-sites-demos-helper@1.2.1...@antv/x6-sites-demos-helper@1.2.2) (2021-10-02)
+
+
+### Bug Fixes
+
+* 🐛 change home path in speedup js ([#1369](https://github.com/antvis/x6/issues/1369)) ([a234833](https://github.com/antvis/x6/commit/a234833240bad1f7d51f0fadf8b9db9392c44064))
+
+## @antv/x6-sites-demos-helper [1.2.2](https://github.com/antvis/x6/compare/@antv/x6-sites-demos-helper@1.2.1...@antv/x6-sites-demos-helper@1.2.2) (2021-10-01)
+
+
+### Bug Fixes
+
+* 🐛 change home path in speedup js ([#1369](https://github.com/antvis/x6/issues/1369)) ([a234833](https://github.com/antvis/x6/commit/a234833240bad1f7d51f0fadf8b9db9392c44064))
+
+## @antv/x6-sites-demos-helper [1.2.2](https://github.com/antvis/x6/compare/@antv/x6-sites-demos-helper@1.2.1...@antv/x6-sites-demos-helper@1.2.2) (2021-10-01)
+
+
+### Bug Fixes
+
+* 🐛 change home path in speedup js ([#1369](https://github.com/antvis/x6/issues/1369)) ([a234833](https://github.com/antvis/x6/commit/a234833240bad1f7d51f0fadf8b9db9392c44064))
+
+## @antv/x6-sites-demos-helper [1.2.2](https://github.com/antvis/x6/compare/@antv/x6-sites-demos-helper@1.2.1...@antv/x6-sites-demos-helper@1.2.2) (2021-10-01)
+
+
+### Bug Fixes
+
+* 🐛 change home path in speedup js ([#1369](https://github.com/antvis/x6/issues/1369)) ([a234833](https://github.com/antvis/x6/commit/a234833240bad1f7d51f0fadf8b9db9392c44064))
+
+## @antv/x6-sites-demos-helper [1.2.2](https://github.com/antvis/x6/compare/@antv/x6-sites-demos-helper@1.2.1...@antv/x6-sites-demos-helper@1.2.2) (2021-10-01)
+
+
+### Bug Fixes
+
+* 🐛 change home path in speedup js ([#1369](https://github.com/antvis/x6/issues/1369)) ([a234833](https://github.com/antvis/x6/commit/a234833240bad1f7d51f0fadf8b9db9392c44064))
+
+## @antv/x6-sites-demos-helper [1.2.2](https://github.com/antvis/x6/compare/@antv/x6-sites-demos-helper@1.2.1...@antv/x6-sites-demos-helper@1.2.2) (2021-09-30)
+
+
+### Bug Fixes
+
+* 🐛 change home path in speedup js ([#1369](https://github.com/antvis/x6/issues/1369)) ([a234833](https://github.com/antvis/x6/commit/a234833240bad1f7d51f0fadf8b9db9392c44064))
+
+## @antv/x6-sites-demos-helper [1.2.3](https://github.com/antvis/x6/compare/@antv/x6-sites-demos-helper@1.2.2...@antv/x6-sites-demos-helper@1.2.3) (2021-09-23)
+
+
+### Bug Fixes
+
+* 🐛 change home path in speedup js ([#1369](https://github.com/antvis/x6/issues/1369)) ([a234833](https://github.com/antvis/x6/commit/a234833240bad1f7d51f0fadf8b9db9392c44064))
+
+## @antv/x6-sites-demos-helper [1.2.2](https://github.com/antvis/x6/compare/@antv/x6-sites-demos-helper@1.2.1...@antv/x6-sites-demos-helper@1.2.2) (2021-09-22)
+
+## @antv/x6-sites-demos-helper [1.2.2](https://github.com/antvis/x6/compare/@antv/x6-sites-demos-helper@1.2.1...@antv/x6-sites-demos-helper@1.2.2) (2021-09-13)
+
 ## @antv/x6-sites-demos-helper [1.2.1](https://github.com/antvis/x6/compare/@antv/x6-sites-demos-helper@1.2.0...@antv/x6-sites-demos-helper@1.2.1) (2021-06-17)
 
 

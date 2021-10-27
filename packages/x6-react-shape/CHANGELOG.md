@@ -1,3 +1,43 @@
+## @antv/x6-react-shape [1.5.2](https://github.com/antvis/x6/compare/@antv/x6-react-shape@1.5.1...@antv/x6-react-shape@1.5.2) (2021-10-22)
+
+
+### Performance Improvements
+
+* ⚡️ add simple config to remove rect and text element ([#1449](https://github.com/antvis/x6/issues/1449)) ([4452563](https://github.com/antvis/x6/commit/4452563876a48fd90664c633e7e0e2debd750816))
+
+## @antv/x6-react-shape [1.5.1](https://github.com/antvis/x6/compare/@antv/x6-react-shape@1.5.0...@antv/x6-react-shape@1.5.1) (2021-10-12)
+
+
+### Bug Fixes
+
+* 🐛 update x6-react-shape ([#1424](https://github.com/antvis/x6/issues/1424)) ([6521622](https://github.com/antvis/x6/commit/65216222e77652e407d76d40ec1d088988a86905))
+* 🐛 update x6-react-shape version ([#1422](https://github.com/antvis/x6/issues/1422)) ([c6c0a42](https://github.com/antvis/x6/commit/c6c0a42c6c4db44d2ad69174194b396d9e9956c7))
+
+# @antv/x6-react-shape [1.5.0](https://github.com/antvis/x6/compare/@antv/x6-react-shape@1.4.6...@antv/x6-react-shape@1.5.0) (2021-09-22)
+
+
+### Features
+
+* **react-shape:** ✨ add throttle to size and position ([#1335](https://github.com/antvis/x6/issues/1335)) ([4a87588](https://github.com/antvis/x6/commit/4a8758807fe3d303532626d196163c8e988fcba6))
+
+
+
+
+
+### Dependencies
+
+* **@antv/x6:** upgraded to 1.26.3
+
+## @antv/x6-react-shape [1.4.6](https://github.com/antvis/x6/compare/@antv/x6-react-shape@1.4.5...@antv/x6-react-shape@1.4.6) (2021-09-13)
+
+
+
+
+
+### Dependencies
+
+* **@antv/x6:** upgraded to 1.26.2
+
 ## @antv/x6-react-shape [1.4.5](https://github.com/antvis/x6/compare/@antv/x6-react-shape@1.4.4...@antv/x6-react-shape@1.4.5) (2021-06-21)
 
 
